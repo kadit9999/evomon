@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyami-lua/evomon/refs/heads/main/s"))()
